@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ── Dark backgrounds ─────────────────────────────── -->
+    <color name="ink">#FF0A1628</color>       <!-- Deep navy — app background     -->
+    <color name="ink2">#FF0D1F35</color>      <!-- Card surfaces                  -->
+    <color name="ink3">#FF162844</color>      <!-- Borders, dividers              -->
+
+    <!-- ── Light / paper tones ──────────────────────────── -->
+    <color name="paper">#FFE8F4F8</color>     <!-- Light mode bg (teal-tinted)    -->
+    <color name="paper2">#FFD0EBF2</color>    <!-- Light mode surface             -->
+
+    <!-- ── Primary accent — P logo blue ─────────────────── -->
+    <color name="plum">#356ED1</color>      <!-- Was purple, now logo blue      -->
+    <color name="rose">#FF00D4A8</color>      <!-- Was rose, now logo teal-green  -->
+    <color name="mauve">#FF0FA8D4</color>     <!-- Was mauve, now mid cyan        -->
+
+    <!-- ── Bar chart greens ──────────────────────────────── -->
+    <color name="bar_green_top">#FF2BCD8F</color>
+    <color name="bar_green_bottom">#FF11AA9E</color>
+
+    <!-- ── Text ──────────────────────────────────────────── -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="text_muted">#FF485263</color>    <!-- Tagline / secondary text    -->
+
+    <!-- ── Icon accent colours ───────────────────────────── -->
+    <color name="icon_track">#FF1671C8</color>
+    <color name="icon_focus">#FF2CB779</color>
+    <color name="icon_schedule">#FF674CBF</color>
+    <color name="icon_insights">#FFB59348</color>
+    <color name="icon_you">#FF47639D</color>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115551191582",
+    "project_id": "productivityos-99ae0",
+    "storage_bucket": "productivityos-99ae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115551191582:android:33bc8ff3a11f63cc04e40f",
+        "android_client_info": {
+          "package_name": "com.productivityos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115551191582-jdq4dhn2bv9qtacj7mrhdeiqkqmd6bce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.productivityos.app",
+            "certificate_hash": "b898d22dd481e863b3f72f22b591a64025b327ed"
+          }
+        },
+        {
+          "client_id": "115551191582-etlodsjrbqem8arf67rgrn6k1bfv1s55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-4cwxb19tGn85K2Y-FPTGrIijRByFco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115551191582-etlodsjrbqem8arf67rgrn6k1bfv1s55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

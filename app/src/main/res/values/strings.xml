@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProductivityOS</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_me">Me</string>
+
+    <!-- Home Screen -->
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="todays_score">Today\'s Score</string>
+    <string name="focus_time">Focus</string>
+    <string name="distract_time">Distract</string>
+    <string name="total_time">Total</string>
+    <string name="deep_sessions">Deep</string>
+    <string name="focus_streak">Focus Streak</string>
+    <string name="best_run">Best run: %d days</string>
+    <string name="biggest_leak">Biggest Leak Today</string>
+    <string name="minutes_lost">%d minutes lost</string>
+    <string name="todays_pattern">Today\'s Pattern</string>
+    <string name="restructure_day">Restructure My Day →</string>
+    <string name="view_insights">View Insights</string>
+    <string name="live">LIVE</string>
+
+    <!-- Insights Screen -->
+    <string name="insights_title">Insights</string>
+    <string name="ai_analysis">AI Analysis</string>
+    <string name="impact_high">HIGH</string>
+    <string name="impact_medium">MED</string>
+    <string name="impact_low">LOW</string>
+
+    <!-- Analytics Screen -->
+    <string name="analytics_title">Analytics</string>
+    <string name="total_tracked">Total Tracked</string>
+    <string name="score_impact">Score Impact</string>
+    <string name="weekly_focus">Weekly Focus</string>
+    <string name="top_apps">Top Apps This Week</string>
+    <string name="apps_used_today">Apps Used Today</string>
+    <string name="set_usage_limits">Set Usage Limits</string>
+
+    <!-- Focus Screen -->
+    <string name="focus_title">Focus Session</string>
+    <string name="start_session">▶ Start Session</string>
+    <string name="end_session">⏹ End Session</string>
+    <string name="blocked_apps">Blocked Apps</string>
+    <string name="usage_limits">App Usage Limits</string>
+    <string name="burnout_meter">Burnout Meter</string>
+    <string name="select_duration">Select Duration</string>
+    <string name="min_25">25 min</string>
+    <string name="min_45">45 min</string>
+    <string name="min_60">60 min</string>
+    <string name="min_90">90 min</string>
+
+    <!-- Schedule Screen -->
+    <string name="schedule_title">Tomorrow\'s Plan</string>
+    <string name="ai_optimised">AI-optimised schedule</string>
+    <string name="based_on_patterns">Based on your peak windows + energy patterns</string>
+    <string name="changes_made">Changes Made</string>
+    <string name="apply_schedule">Apply New Schedule →</string>
+    <string name="block_deep">DEEP</string>
+    <string name="block_break">BREAK</string>
+    <string name="block_light">LIGHT</string>
+    <string name="block_admin">ADMIN</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="edit">EDIT ✏</string>
+    <string name="avg_score">Avg Score</string>
+    <string name="best_streak">Best Streak</string>
+    <string name="work_type">Work Type</string>
+    <string name="focus_pref">Focus Pref.</string>
+    <string name="my_devices">My Devices</string>
+    <string name="account">Account</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="settings_menu">Settings</string>
+    <string name="privacy_data">Privacy &amp; Data</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode_active">Dark mode active</string>
+    <string name="light_mode_active">Light mode active</string>
+    <string name="font_size">Font Size</string>
+    <string name="font_sm">SM</string>
+    <string name="font_md">MD</string>
+    <string name="font_lg">LG</string>
+    <string name="font_xl">XL</string>
+    <string name="ai_privacy">AI &amp; Privacy</string>
+    <string name="on_device_ai">On-device AI</string>
+    <string name="on_device_ai_sub">Data stays on your phone</string>
+    <string name="auto_delete">Auto-delete after 7 days</string>
+    <string name="auto_delete_sub">Keeps storage lean</string>
+    <string name="live_tracker">Live Tracker</string>
+    <string name="live_tracker_sub">Real-time monitoring</string>
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="data_policy">Data Policy</string>
+    <string name="export_data">Export My Data</string>
+    <string name="reset_ai">Reset AI Model</string>
+    <string name="clear_data">Clear All Data</string>
+
+    <!-- Bottom Sheet -->
+    <string name="live_tracker_alert">⚠ Live Tracker Alert</string>
+    <string name="switch_to_focus">▶ Switch to Focus Mode</string>
+    <string name="ignore_for_now">Ignore for now</string>
+    <string name="planned_deep_work">You planned deep work at this time. Switch to focus mode to block distractions automatically?</string>
+
+    <!-- Auth / Login Screen -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="terms_notice">By continuing, you agree to our Terms of Service and Privacy Policy.</string>
+    <string name="or_divider">or</string>
+</resources>
